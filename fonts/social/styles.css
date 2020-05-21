@@ -22,7 +22,6 @@
   vertical-align: middle;
   speak: none;
   line-height: 1;
-  direction: ltr;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -37,6 +36,7 @@
   vertical-align: middle;
   speak: none;
   line-height: 1;
+  direction: ltr;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
